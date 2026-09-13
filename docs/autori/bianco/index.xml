@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bianco on Melo Chords</title>
-    <link>https://org-carmelolg-private-labs.github.io/chords/autori/bianco/</link>
+    <link>https://carmelolg-labs.github.io/chords/autori/bianco/</link>
     <description>Recent content in Bianco on Melo Chords</description>
-    <generator>Hugo -- 0.161.1</generator>
+    <generator>Hugo -- 0.166.0</generator>
     <language>it-IT</language>
     <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://org-carmelolg-private-labs.github.io/chords/autori/bianco/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://carmelolg-labs.github.io/chords/autori/bianco/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bianco - Filo d&#39;erba</title>
-      <link>https://org-carmelolg-private-labs.github.io/chords/posts/bianco/filo-derba/</link>
+      <link>https://carmelolg-labs.github.io/chords/posts/bianco/filo-derba/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://org-carmelolg-private-labs.github.io/chords/posts/bianco/filo-derba/</guid>
+      <guid>https://carmelolg-labs.github.io/chords/posts/bianco/filo-derba/</guid>
       <description>Accordi per Filo d&amp;#39;erba (Bianco).</description>
     </item>
   </channel>
