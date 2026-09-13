@@ -1,0 +1,92 @@
+{{- define "main" }}
+
+<header class="page-header tips-page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">{{ .Description | markdownify }}</div>
+  {{- end }}
+</header>
+
+{{- $pages := .RegularPages }}
+{{- $categorized := slice }}
+{{- $uncategorized := slice }}
+{{- range $pages }}
+  {{- if .Params.categoria }}
+    {{- $categorized = $categorized | append . }}
+  {{- else }}
+    {{- $uncategorized = $uncategorized | append . }}
+  {{- end }}
+{{- end }}
+
+{{- $catNames := slice }}
+{{- range $categorized }}
+  {{- $c := .Params.categoria }}
+  {{- if not (in $catNames $c) }}
+    {{- $catNames = $catNames | append $c }}
+  {{- end }}
+{{- end }}
+{{- $catNames = sort $catNames }}
+
+{{- range $catNames }}
+  {{- $cat := . }}
+  {{- $catPages := where $categorized "Params.categoria" $cat }}
+
+  {{- $icon := "📘" }}
+  {{- $catClass := "tips-cat-default" }}
+  {{- if in (lower $cat) "accord" }}
+    {{- $icon = "🎼" }}
+    {{- $catClass = "tips-cat-accordi" }}
+  {{- else if in (lower $cat) "scal" }}
+    {{- $icon = "🪜" }}
+    {{- $catClass = "tips-cat-scale" }}
+  {{- else if in (lower $cat) "ritmic" }}
+    {{- $icon = "🥁" }}
+    {{- $catClass = "tips-cat-ritmica" }}
+  {{- else if in (lower $cat) "teori" }}
+    {{- $icon = "📐" }}
+    {{- $catClass = "tips-cat-teoria" }}
+  {{- else if in (lower $cat) "tecnic" }}
+    {{- $icon = "🖐️" }}
+    {{- $catClass = "tips-cat-tecnica" }}
+  {{- end }}
+
+  <section class="tips-category {{ $catClass }}">
+    <h2 class="tips-category-title">
+      <span class="tips-category-icon" aria-hidden="true">{{ $icon }}</span>
+      <span>{{ $cat }}</span>
+      <span class="tips-category-count">{{ len $catPages }} {{ if eq (len $catPages) 1 }}guida{{ else }}guide{{ end }}</span>
+    </h2>
+    <div class="tips-grid">
+      {{- range $catPages }}
+      <a href="{{ .Permalink }}" class="tip-card">
+        <h3 class="tip-card-title">{{ .Title }}</h3>
+        {{- with (.Params.summary | default .Description) }}
+        <p class="tip-card-summary">{{ . }}</p>
+        {{- end }}
+      </a>
+      {{- end }}
+    </div>
+  </section>
+{{- end }}
+
+{{- if $uncategorized }}
+  <section class="tips-category tips-cat-default">
+    <h2 class="tips-category-title">
+      <span class="tips-category-icon" aria-hidden="true">📘</span>
+      <span>Altro</span>
+      <span class="tips-category-count">{{ len $uncategorized }} {{ if eq (len $uncategorized) 1 }}guida{{ else }}guide{{ end }}</span>
+    </h2>
+    <div class="tips-grid">
+      {{- range $uncategorized }}
+      <a href="{{ .Permalink }}" class="tip-card">
+        <h3 class="tip-card-title">{{ .Title }}</h3>
+        {{- with (.Params.summary | default .Description) }}
+        <p class="tip-card-summary">{{ . }}</p>
+        {{- end }}
+      </a>
+      {{- end }}
+    </div>
+  </section>
+{{- end }}
+
+{{- end }}

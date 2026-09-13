@@ -1,6 +1,7 @@
 ---
 title: "Come usare gli accordi di nona alla chitarra"
 description: "Guida pratica agli accordi 9 e m9: teoria, due voicing per tonalità, ritmo, blues, funk, II-V-I e arpeggi."
+categoria: "Accordi"
 ---
 
 Questa pagina è pensata per chi conosce già alcuni accordi aperti e con barré e vuole iniziare a usare gli **accordi di nona** in modo pratico e musicale.

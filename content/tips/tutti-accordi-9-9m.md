@@ -1,6 +1,7 @@
 ---
 title: "Tutti gli accordi di nona dominante (9) e minore nona (m9)"
 description: "Tab per gli accordi 9 e m9:."
+categoria: "Accordi"
 ---
 
 Gli accordi `9` sono accordi dominanti. Funzionano molto bene nel blues, nel funk, nel soul e come V grado in un II-V-I jazz.

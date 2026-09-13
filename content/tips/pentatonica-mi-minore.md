@@ -2,6 +2,7 @@
 title: "Pentatonica minore di Mi"
 summary: "Una guida base per iniziare a studiare la pentatonica minore di Mi sulla chitarra."
 description: "Guida per chi vuole iniziare a usare la pentatonica minore di Mi con esercizi, box e consigli pratici."
+categoria: "Scale"
 ShowToc: true
 ---
 
