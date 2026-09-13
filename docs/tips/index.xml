@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Guide on Melo Chords</title>
-    <link>https://org-carmelolg-private-labs.github.io/chords/tips/</link>
+    <link>https://carmelolg-labs.github.io/chords/tips/</link>
     <description>Recent content in Guide on Melo Chords</description>
-    <generator>Hugo -- 0.161.1</generator>
+    <generator>Hugo -- 0.166.0</generator>
     <language>it-IT</language>
-    <atom:link href="https://org-carmelolg-private-labs.github.io/chords/tips/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://carmelolg-labs.github.io/chords/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Come usare gli accordi di nona alla chitarra</title>
+      <link>https://carmelolg-labs.github.io/chords/tips/guida-accordi-9-9m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carmelolg-labs.github.io/chords/tips/guida-accordi-9-9m/</guid>
+      <description>Guida pratica agli accordi 9 e m9: teoria, due voicing per tonalità, ritmo, blues, funk, II-V-I e arpeggi.</description>
+    </item>
     <item>
       <title>Pentatonica minore di Mi</title>
-      <link>https://org-carmelolg-private-labs.github.io/chords/tips/pentatonica-mi-minore/</link>
+      <link>https://carmelolg-labs.github.io/chords/tips/pentatonica-mi-minore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://org-carmelolg-private-labs.github.io/chords/tips/pentatonica-mi-minore/</guid>
+      <guid>https://carmelolg-labs.github.io/chords/tips/pentatonica-mi-minore/</guid>
       <description>Guida per chi vuole iniziare a usare la pentatonica minore di Mi con esercizi, box e consigli pratici.</description>
+    </item>
+    <item>
+      <title>Tutti gli accordi di nona dominante (9) e minore nona (m9)</title>
+      <link>https://carmelolg-labs.github.io/chords/tips/tutti-accordi-9-9m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carmelolg-labs.github.io/chords/tips/tutti-accordi-9-9m/</guid>
+      <description>Tab per gli accordi 9 e m9:.</description>
     </item>
   </channel>
 </rss>

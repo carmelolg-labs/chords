@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dimartino on Melo Chords</title>
-    <link>https://org-carmelolg-private-labs.github.io/chords/autori/dimartino/</link>
+    <link>https://carmelolg-labs.github.io/chords/autori/dimartino/</link>
     <description>Recent content in Dimartino on Melo Chords</description>
-    <generator>Hugo -- 0.161.1</generator>
+    <generator>Hugo -- 0.166.0</generator>
     <language>it-IT</language>
     <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://org-carmelolg-private-labs.github.io/chords/autori/dimartino/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://carmelolg-labs.github.io/chords/autori/dimartino/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dimartino - L&#39;Oro del Fiume</title>
-      <link>https://org-carmelolg-private-labs.github.io/chords/posts/dimartino/l-oro-del-fiume/</link>
+      <link>https://carmelolg-labs.github.io/chords/posts/dimartino/l-oro-del-fiume/</link>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://org-carmelolg-private-labs.github.io/chords/posts/dimartino/l-oro-del-fiume/</guid>
+      <guid>https://carmelolg-labs.github.io/chords/posts/dimartino/l-oro-del-fiume/</guid>
       <description>Accordi per L&amp;#39;Oro del Fiume.</description>
     </item>
     <item>
       <title>Dimartino - Feste comandate</title>
-      <link>https://org-carmelolg-private-labs.github.io/chords/posts/dimartino/feste-comandate/</link>
+      <link>https://carmelolg-labs.github.io/chords/posts/dimartino/feste-comandate/</link>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://org-carmelolg-private-labs.github.io/chords/posts/dimartino/feste-comandate/</guid>
+      <guid>https://carmelolg-labs.github.io/chords/posts/dimartino/feste-comandate/</guid>
       <description>Accordi per Feste comandate (Dimartino).</description>
     </item>
     <item>
       <title>Dimartino - I Calendari</title>
-      <link>https://org-carmelolg-private-labs.github.io/chords/posts/dimartino/i-calendari/</link>
+      <link>https://carmelolg-labs.github.io/chords/posts/dimartino/i-calendari/</link>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://org-carmelolg-private-labs.github.io/chords/posts/dimartino/i-calendari/</guid>
+      <guid>https://carmelolg-labs.github.io/chords/posts/dimartino/i-calendari/</guid>
       <description>Accordi per I Calendari (Dimartino).</description>
     </item>
   </channel>
