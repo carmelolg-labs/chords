@@ -6,9 +6,9 @@ categoria: "Accordi"
 
 Questa pagina è pensata per chi conosce già alcuni accordi aperti e con barré e vuole iniziare a usare gli **accordi di nona** in modo pratico e musicale.
 
-L’idea è questa: prima capisci che cosa sono gli accordi `9` e `m9`, poi impari alcune forme comode in tutte le tonalità e in due zone del manico. Infine le usi per creare accompagnamenti blues, jazz, funk e folk.
+Prima capisci che cosa sono gli accordi `9` e `m9`, poi impari alcune forme comode in tutte le tonalità e in due zone del manico. Infine le usi per creare accompagnamenti blues, jazz, funk e folk.
 
-Gli accordi di nona non servono soltanto a rendere un giro più complicato. Possono rendere un accompagnamento più ritmico nel funk, più ricco nel blues, più fluido nel jazz e più aperto nel folk.
+Possono rendere un accompagnamento più ritmico nel funk, più ricco nel blues, più fluido nel jazz e più aperto nel folk.
 
 ## Che cosa sono gli accordi di nona
 
@@ -105,7 +105,7 @@ Puoi cambiare una cosa alla volta:
 - la nota più acuta
 - la durata del suono
 
-Un modo molto semplice è muovere la voce più alta dell’accordo. Con A9, alterna il Mi al terzo tasto della prima corda e il Fa# al quinto tasto.
+Un modo molto semplice è muovere la voce più alta dell’accordo. Con A9, alterna il Sol al terzo tasto della prima corda e il La al quinto tasto.
 
 ```text
 A9 - piccola frase sulla voce acuta
@@ -118,7 +118,7 @@ A|---------------|
 E|---------------|
 ```
 
-Non devi considerare questo esempio come tre accordi completamente diversi. È un solo colore armonico che si muove e crea una piccola frase.
+È un solo colore armonico che si muove e crea una piccola frase, non tre accordi diversi.
 
 Provalo come risposta a una frase cantata oppure tra due colpi di accompagnamento.
 
@@ -156,7 +156,7 @@ A|-----2-------2---|
 E|-----0-------0---|
 ```
 
-Questa semplice scelta avvicina l’accompagnamento a un feel blues, soul o R&B.
+Questa scelta avvicina l’accompagnamento a un feel blues, soul o R&B.
 
 ## Un passaggio cromatico blues
 
@@ -174,7 +174,7 @@ A|---x-----2---|
 E|---1-----0---|
 ```
 
-F9 non è qui un accordo stabile. È un passaggio breve che rende più forte il ritorno a E9.
+F9 qui è solo un passaggio breve che rende più forte il ritorno a E9, non un accordo stabile.
 
 Usalo con moderazione: una volta ogni tanto ha più effetto che ripeterlo in ogni battuta.
 
@@ -208,8 +208,6 @@ Per aggiungere più colore puoi suonarlo così:
 Am9 - D9 - Gmaj7
 ```
 
-Il significato è semplice:
-
 - `Am9` è il II grado
 - `D9` è il V grado e crea tensione
 - `Gmaj7` è il I grado e dà una sensazione di arrivo
@@ -220,7 +218,7 @@ Ecco una prima versione accessibile:
 
 ```text
 Am9   = x02413
-D9    = xx0210
+D9    = x54555
 Gmaj7 = 3x4432
 ```
 
@@ -241,8 +239,8 @@ Spesso è più efficace scegliere voicing vicini e far muovere le singole voci d
 Ecco un II-V-I compatto sulle corde centrali:
 
 ```text
-Am9    = xx5457
-D9     = xx5455
+Am9    = xx5557
+D9     = xx4555
 Gmaj7  = xx4432
 ```
 
@@ -250,7 +248,7 @@ Gmaj7  = xx4432
 Am9
 e|---7---|
 B|---5---|
-G|---4---|
+G|---5---|
 D|---5---|
 A|---x---|
 E|---x---|
@@ -260,8 +258,8 @@ E|---x---|
 D9
 e|---5---|
 B|---5---|
-G|---4---|
-D|---5---|
+G|---5---|
+D|---4---|
 A|---x---|
 E|---x---|
 ```
@@ -276,7 +274,7 @@ A|---x---|
 E|---x---|
 ```
 
-Am9 e D9 hanno due note molto vicine. La differenza principale è il movimento di una voce interna: il Do di Am9 sale al Do# di D9. Poi D9 risolve verso Gmaj7.
+Am9 e D9 hanno più note in comune di quanto sembri. Il Do resta fermo (è la terza di Am9 e diventa la settima di D9), mentre il Sol scende di un semitono al Fa#. Poi D9 risolve verso Gmaj7.
 
 Non devi analizzare ogni nota mentre suoni. Però è utile sapere che il II-V-I funziona bene perché le voci tendono a muoversi per semitono o tono, non con grandi salti.
 
@@ -293,7 +291,7 @@ D9     .   x   .   x
 Gmaj7  .   x   .   x
 ```
 
-In questo esempio, suona sul secondo e sul quarto movimento. Il punto non è copiare un ritmo fisso, ma imparare a lasciare aria.
+In questo esempio, suona sul secondo e sul quarto movimento. Il punto è imparare a lasciare aria, non copiare un ritmo fisso.
 
 Quando sei sicuro, prova a fare un colpo sul levare prima del cambio di accordo. Per esempio, anticipa D9 alla fine della battuta di Am9. Sentirai il giro muoversi in avanti.
 
@@ -310,7 +308,7 @@ Prova questa progressione:
 ```text
 Em9 = 024032
 Am9 = x02413
-D9  = xx0210
+D9  = x54555
 G   = 320003
 ```
 
@@ -329,7 +327,7 @@ E|-0-------------|
 
 Qui l’accordo non deve essere per forza ritmico e secco. Puoi lasciare risuonare le corde e usare la nota più acuta come parte della melodia.
 
-Questa è un’altra forma di parafrasi: non cambi l’armonia, ma cambi il modo in cui le note vengono distribuite nel tempo.
+Cambi il modo in cui le note vengono distribuite nel tempo, non l’armonia: è un’altra forma di parafrasi.
 
 ## Come studiarli bene
 
@@ -394,11 +392,7 @@ Se sei a un livello principiante/intermedio, questi sono obiettivi già ottimi:
 5. Capire e suonare il II-V-I `Am9 - D9 - Gmaj7`.
 6. Creare una variazione ritmica o melodica senza cambiare accordo.
 
-## Un consiglio finale
-
-Studia gli accordi di nona come un piccolo vocabolario, non come una lista di posizioni.
-
-Un buon accompagnamento non dipende dal numero di accordi che conosci. Dipende da come ascolti, da quanto spazio lasci e da quanto bene riesci a far funzionare poche note insieme al ritmo.
+Un buon accompagnamento non dipende dal numero di accordi che conosci: dipende da come ascolti, da quanto spazio lasci e da quanto bene riesci a far funzionare poche note insieme al ritmo.
 
 ## Un brano su cui esercitarti
 

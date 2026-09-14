@@ -22,7 +22,7 @@ Rispetto alla scala minore naturale mancano due note. Proprio per questo e una s
 
 ## Da dove partire
 
-La cosa piu importante da capire all'inizio e che la pentatonica non e una sola figura isolata: e una **mappa di 5 box collegati**.
+La pentatonica non e una figura isolata da memorizzare: e una **mappa di 5 box collegati**.
 
 Nel caso di **Mi minore**, questa mappa e particolarmente comoda sulla chitarra acustica, perche puoi studiarla sia in **posizione aperta** sia piu avanti sul manico.
 
@@ -180,7 +180,7 @@ Esempio:
 
 quindi la relativa minore di **Sol maggiore** e **Mi minore**.
 
-Non e una regola magica che risolve tutto, ma e un ottimo punto di partenza quando vuoi capire quale pentatonica provare sopra un giro maggiore.
+E un ottimo punto di partenza per capire quale pentatonica provare sopra un giro maggiore, anche se non risolve tutto da sola.
 
 ## Come studiarla bene
 
@@ -231,10 +231,6 @@ Se sei all'inizio, questi sono gia ottimi obiettivi:
 2. suonare almeno un box senza fermarti
 3. riconoscere la tonica dentro il box
 4. inventare 2 o 3 frasi semplici che abbiano senso musicale
-
-## Un consiglio finale
-
-Studia la pentatonica come un piccolo vocabolario, non come una corsa sul manico. Se impari ad ascoltare bene poche note, stai gia facendo musica.
 
 ## Un brano consigliato per esercitarti
 
