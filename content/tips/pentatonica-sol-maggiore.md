@@ -111,6 +111,86 @@ A|--------14--17----------|
 E|--------15--17----------|
 ```
 
+## Un sistema alternativo: 3 note per corda
+
+I box qui sopra usano sempre 2 note per corda: è il sistema più comune per chi inizia, perché richiede meno spostamenti della mano.
+
+Molte scuole di musica insegnano però la pentatonica maggiore anche con un sistema a **3 note per corda**. L'idea è la stessa (restano sempre le 5 note di Sol maggiore), ma le posizioni sono più larghe: la mano copre più tasti insieme, e a seconda della posizione alcune corde hanno 2 note e altre 3.
+
+Con questo sistema, invece di 5 box stretti, la pentatonica di Sol si divide in 5 posizioni più ampie, indicate con i numeri romani da I a V.
+
+### Posizione I - tra 0 e 5 tasto (posizione aperta)
+
+```text
+e|0--3--5--|
+B|0--3--5--|
+G|0--2--4--|
+D|0--2--5--|
+A|0--2--5--|
+E|0--3--5--|
+```
+
+### Posizione II - tra 3 e 7 tasto
+
+```text
+e|---3--5--7--|
+B|---3--5-----|
+G|----4--7----|
+D|-----5--7---|
+A|-----5--7---|
+E|---3--5--7--|
+```
+
+### Posizione III - tra 5 e 10 tasto
+
+```text
+e|-----5--7--10--|
+B|-----5--8--10--|
+G|-------7--9----|
+D|-----5--7--9---|
+A|-----5--7--10--|
+E|-----5--7--10--|
+```
+
+### Posizione IV - tra 7 e 12 tasto
+
+```text
+e|-------7--10--12---|
+B|--------8--10--12--|
+G|-------7--9--12----|
+D|-------7--9--12----|
+A|-------7--10--12---|
+E|-------7--10--12---|
+```
+
+### Posizione V - tra 10 e 15 tasto
+
+```text
+e|----------10--12--15--|
+B|----------10--12--15--|
+G|------------12--14----|
+D|------------12--14----|
+A|----------10--12--14--|
+E|----------10--12--15--|
+```
+
+### Posizione I di nuovo - tra 12 e 17 tasto
+
+Da qui la posizione I ricomincia un'ottava sopra, di nuovo con 3 note su ogni corda:
+
+```text
+e|------------12--15--17--|
+B|------------12--15--17--|
+G|------------12--14--16--|
+D|------------12--14--17--|
+A|------------12--14--17--|
+E|------------12--15--17--|
+```
+
+Nota che nella Posizione I e nella Posizione IV tutte le corde hanno 3 note: sono le posizioni "piene". Nelle altre, una o due corde restano a 2 note semplicemente perché in quel tratto di manico la nota successiva della scala cade troppo lontano per essere comoda: è normale, non è un errore di diteggiatura.
+
+Le due strade portano allo stesso risultato: puoi studiare la pentatonica di Sol con i box a 2 note per corda se stai iniziando, oppure con le posizioni a 3 note per corda se vuoi frasi più ampie senza spostare troppo la mano. I concetti delle sezioni successive (tonica, collegamento delle posizioni, trasposizione) valgono identici in entrambi i sistemi.
+
 ## Il punto di riferimento più importante
 
 Quando studi la scala, il tuo riferimento principale è la **tonica**, cioè il **Sol**.
